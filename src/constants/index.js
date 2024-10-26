@@ -175,7 +175,7 @@ export const myProjects = [
     desc: 'Built with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS, the 3D Minimalistic portfolio is a website project.',
     subdesc:
       'Hover over career milestones to trigger interactive 3D animations that bring professional journey to life. Browse through projects while watching live demos inside a 3D computer model, seamlessly switching between different projects.',
-    href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+    href: 'https://3d-portfolio-nine-chi.vercel.app/',
     texture: '/textures/project/3dportfolio.mp4',
     logo: '/assets/mlogo.png',
     logoStyle: {
